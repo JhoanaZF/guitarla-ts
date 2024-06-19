@@ -1,5 +1,3 @@
-import React from 'react'
-
 export function Footer() {
   return (
     <footer className="bg-dark mt-5 py-5">
